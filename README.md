@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik Rajput</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikrajput&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikrajput" /> </p>
