@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12298
-Fork on GitHub
-3094
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kaushik Rajput</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikrajput&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikrajput" /> </p>
 
