@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [skinfotechies](https://skinfotechies.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working on **React.js**
 
 - 📫 How to reach me **kaushikrajput0926@gmail.com**
 
