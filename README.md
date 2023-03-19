@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikrajput&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikrajput" /> </p>
 
-- 🔭 I’m currently working on [skinfotechies](https://skinfotechies.com/)
-
 - 🌱 I’m currently working on **React.js**
 
 - 📫 How to reach me **kaushikrajput0926@gmail.com**
